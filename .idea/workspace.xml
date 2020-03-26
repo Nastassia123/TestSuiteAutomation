@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433daffc-ba68-486d-a7e8-6ce816189b79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/TestListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PersonalAreaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/VerifyLoginFunctionality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/abstractPackage/APIClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/abstractPackage/APIClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/CardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstractPackage/APIClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstractPackage/APIClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/abstractPackage/BasePageClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/abstractPackage/BasePageClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/CardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/CardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/VerifyProductIsAddedToCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/VerifyProductIsAddedToCard.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/VerifyLoginFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/listeners/TestListeners.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/resources/Testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/PersonalAreaPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/CardPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/abstractPackage/BasePageClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/abstractPackage/APIClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/pages/CardPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java" />
+        <option value="$PROJECT_DIR$/src/test/java/abstractPackage/APIClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/personalAreaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/configuration/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/VerifyLoginFunctionality.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/abstractPackage/BasePageClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/PersonalAreaPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/listeners/TestListeners.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/configutationTest.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/resources/Testng.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectId" id="1ZXVhizB1l4RNqPC66IoXL8PODc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4FRAG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4FRAG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\4FRAG\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="configuration" />
+      <recent name="listeners" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\4FRAG\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/4FRAG/src/test/java/resources/Testng.xml">
+    <configuration name="D:/4FRAG/src/test/java/resources/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyLoginFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.VerifyLoginFunctionality" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyLoginFunctionality.testLoginOption" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.VerifyLoginFunctionality" />
+      <option name="METHOD_NAME" value="testLoginOption" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyProductIsAddedToCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.VerifyProductIsAddedToCard" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyProductIsAddedToCard.testAdditionProductToCard" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="4FRAG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.VerifyProductIsAddedToCard" />
+      <option name="METHOD_NAME" value="testAdditionProductToCard" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/4FRAG/src/test/java/resources/Testng.xml" />
+        <item itemvalue="TestNG.VerifyLoginFunctionality.testLoginOption" />
+        <item itemvalue="TestNG.VerifyLoginFunctionality" />
+        <item itemvalue="TestNG.VerifyProductIsAddedToCard.testAdditionProductToCard" />
+        <item itemvalue="TestNG.VerifyProductIsAddedToCard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="433daffc-ba68-486d-a7e8-6ce816189b79" name="Default Changelist" comment="" />
+      <created>1584985547674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584985547674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 41m 13s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 42m 34s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 46m 55s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 48m 05s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 49m 05s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 15h 59m 04s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VerifyLoginFunctionality_testLoginOption - 2020.03.26 at 16h 16m 52s.xml">
+      <configuration name="VerifyLoginFunctionality.testLoginOption" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__4FRAG_src_test_java_resources_Testng_xml - 2020.03.26 at 16h 42m 21s.xml">
+      <configuration name="D:/4FRAG/src/test/java/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__4FRAG_src_test_java_resources_Testng_xml - 2020.03.26 at 16h 44m 03s.xml">
+      <configuration name="D:/4FRAG/src/test/java/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__4FRAG_src_test_java_resources_Testng_xml - 2020.03.26 at 16h 50m 24s.xml">
+      <configuration name="D:/4FRAG/src/test/java/resources/Testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="DB Browser" />
+      <window_info id="UI Designer" />
+      <window_info id="Project Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Job Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2511381" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32582322" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36048526" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584987139824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584987139824" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1584987417639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584987417639" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584987137938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584987137938" />
+    <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1585053749321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585053749321" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1585054891773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585054891773" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1585054891772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585054891772" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1585054891772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585054891772" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1585054891772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585054891772" />
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom" timestamp="1585054891773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585054891773" />
+    <state width="1323" height="214" key="GridCell.Tab.1.center" timestamp="1585054891773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585054891773" />
+    <state width="1323" height="214" key="GridCell.Tab.1.left" timestamp="1585054891773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585054891773" />
+    <state width="1323" height="214" key="GridCell.Tab.1.right" timestamp="1585054891773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585054891773" />
+    <state x="65" y="71" key="new project wizard" timestamp="1585053750640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="71" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585053750640" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/configuration/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/abstractPackage/APIClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PersonalAreaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/abstractPackage/BasePageClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CardPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/listeners/TestListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/VerifyProductIsAddedToCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/VerifyLoginFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/configutationTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/Testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>4FRAG</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
